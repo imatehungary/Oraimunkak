@@ -1,0 +1,56 @@
+body{
+    background-color: bisque;
+    font-size: 150%;
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table{
+    text-align: center; 
+    font-size: 100%;
+    color: blue;
+    border: none
+}
+
+#kép{
+    width: 500px;
+    height: 250px;
+}
+
+#elsőkép{
+    margin-left: 37%;
+    margin-bottom: 150px;
+}
+
+#index{
+    margin-left: 9%;
+    font-size: 250%;
+    height: 10%;
+}
+
+#vissza{
+    margin-left: 43%;
+    margin-top: 6%;
+}
+
+#alvinkép{
+    margin-left: 50%;
+}
+ 
+#bal{
+ text-align: justify;
+}
+
+#jobb{
+    text-align: right;
+}
+
+td{
+    width: 33%;
+    height: 50%;
+    background-color: wheat;
+}
+
+header{
+    background-color: wheat;
+}
